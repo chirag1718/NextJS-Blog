@@ -15,7 +15,7 @@ function StudioNavbar(props: any) {
           <Link
             target="blank"
             href="https://github.com/chirag1718"
-            className="text-[#F7AB0A] font-bold ml-2"
+            className="text-[#F7AB0A]"
           >
             {" "}
             👉🏻 github.com/chirag1718
